@@ -7,7 +7,7 @@ Steps Involved :
      
    a. Download RRDB_ESRGAN_x4.pth
 
-   b.After Downloading put the Required file in ESRGAN git cloned folder.
+   b.After Downloading put the Required file in ESRGAN/ Models folder.
 
 4. Install Dependencies
 
